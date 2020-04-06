@@ -13,7 +13,7 @@ import ru.gdgkazan.simpleweather.network.ApiFactory;
 
 /**
  * @author Artur Vasilov
- */ qwert
+ */
 public class RetrofitWeatherLoader extends Loader<City> {
 
     private final Call<City> mCall;
